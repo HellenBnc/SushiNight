@@ -1,0 +1,77 @@
+body{
+	background-color: black;
+}
+
+h1{
+	color: Antique Ruby;
+	background-color: orange;
+	border: solid 5px orange;
+	border-radius: 30px;
+	padding: 59px;
+	padding-left: 30px;
+	padding-top: 18px;
+	margin-left: 1100px;
+	width:35px;
+	height:35px;
+	text-align: center;
+	font-family: Corbel Light;
+	
+}
+ul{
+	color: orange;
+	background-color: black;
+	border: solid 5px orange;
+	border-radius: 30px;
+	padding: 15px;
+	margin: 45px;
+	margin-right: 580px;
+	margin-left: 565px;
+	font-weight: bold;
+	font-family: Corbel Light;
+	padding-left: 70px;
+	text-align: center;
+	
+}
+
+
+h2{
+	font-family: Corbel Light;
+	font-weight: bold;
+	color: orange;
+	text-align: center;
+}
+.date {
+	
+	text-align: right;	
+}
+h3{
+font-family: Corbel Light;
+	font-weight: bold;
+	color: orange;
+	text-align: left;	
+}
+
+h4{
+	font-family: Corbel Light;
+	font-weight: bold;
+	color: orange;
+	text-align: center;
+}
+
+.mix{
+	color: green;
+	background-color: orange;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-weight: bold;
+	
+	
+}
+p{
+	font-family: Corbel Light;
+	font-weight: bold;
+	color: orange;
+	text-align: center;
+}
